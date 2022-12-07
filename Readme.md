@@ -1,4 +1,4 @@
-# MusiKReader
+# 🎹 MusiKReader 🎹
 
 ## Welcome to my application
 
@@ -7,4 +7,4 @@
 ### There also  is a creative mode where you can write new songs and create ones in relation with the ones stored in database using Markov chains.
 
 
-## Have fun !
+## Have fun ! 🔊
